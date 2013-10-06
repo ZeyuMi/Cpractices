@@ -1,0 +1,1 @@
+void dcl(void);
